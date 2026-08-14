@@ -145,7 +145,7 @@ git commit -m "feat: add 5 books on comparative religion defending Islam"
 **⑥ Push to Your Fork**
 
 ```bash
-git push origin add/5-books-on-islamic-theology
+git push origin add/5-books-on-islamic-theology-pdf
 ```
 
 <br/>
