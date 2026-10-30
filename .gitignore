@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+data/chunks.json
+data/index.faiss

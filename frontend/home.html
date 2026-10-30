@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AnonymousThinker</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="app">
+
+        <!-- Top Navigation -->
+        <header class="topbar">
+
+            <div class="brand">
+
+                <div class="brand-icon">
+                    <span>✦</span>
+                </div>
+
+                <div class="brand-text">
+                    <h2>AnonymousThinker</h2>
+                    <span>AI Knowledge Assistant</span>
+                </div>
+
+            </div>
+
+            <div class="top-actions">
+
+                <div class="online-status">
+                    <span class="online-dot"></span>
+                    Online
+                </div>
+
+                <button class="icon-button" onclick="newChat()" title="New Chat">
+                    ＋
+                </button>
+
+            </div>
+
+        </header>
+
+
+        <!-- Main Chat -->
+        <main class="chat-wrapper">
+
+            <div class="chat-content" id="chatContent">
+
+                <!-- Welcome Screen -->
+                <section class="welcome" id="welcome">
+
+                    <div class="hero-icon">
+                        <span>✦</span>
+                    </div>
+
+                    <div class="badge">
+                        <span>✦</span>
+                        Knowledge-powered AI
+                    </div>
+
+                    <h1>
+                        Ask anything.<br>
+                        <span>Think deeper.</span>
+                    </h1>
+
+                    <p>
+                        Explore Islam, atheism, philosophy and
+                        comparative religion through knowledge-based answers.
+                    </p>
+
+                    <!-- Quick Prompts -->
+                    <div class="quick-prompts">
+
+                        <button
+                            onclick="setQuestion('What is the Islamic perspective on atheism?')">
+
+                            <span>☪</span>
+
+                            <div>
+                                <strong>Islam & Atheism</strong>
+                                <small>Explore an Islamic perspective</small>
+                            </div>
+
+                            <span class="arrow">→</span>
+
+                        </button>
+
+
+                        <button
+                            onclick="setQuestion('What are some philosophical arguments for the existence of God?')">
+
+                            <span>◈</span>
+
+                            <div>
+                                <strong>Arguments for God</strong>
+                                <small>Explore philosophical reasoning</small>
+                            </div>
+
+                            <span class="arrow">→</span>
+
+                        </button>
+
+
+                        <button
+                            onclick="setQuestion('How does Islam approach philosophy and reason?')">
+
+                            <span>◇</span>
+
+                            <div>
+                                <strong>Islam & Philosophy</strong>
+                                <small>Reason, knowledge and belief</small>
+                            </div>
+
+                            <span class="arrow">→</span>
+
+                        </button>
+
+                    </div>
+
+                </section>
+
+
+                <!-- Messages appear here -->
+                <div id="messages"></div>
+
+            </div>
+
+        </main>
+
+
+        <!-- Bottom Input -->
+        <footer class="composer-area">
+
+            <div class="composer-container">
+
+                <div class="composer">
+
+                    <textarea
+                        id="question"
+                        rows="1"
+                        placeholder="Ask AnonymousThinker anything..."
+                        onkeydown="handleEnter(event)"
+                    ></textarea>
+
+                    <button
+                        class="send-button"
+                        onclick="askQuestion()"
+                        title="Send"
+                    >
+                        ↑
+                    </button>
+
+                </div>
+
+                <div class="composer-footer">
+
+                    <span>
+                        Enter to send
+                    </span>
+
+                    <span>
+                        AnonymousThinker may make mistakes. Verify important information from original sources.
+                    </span>
+
+                </div>
+
+            </div>
+
+        </footer>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
