@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "title": "Fortress of the Muslim (Hisnul Muslim)",
+      "author": "Said bin Ali Al-Qahtani",
+      "language": "English",
+      "category": "Islamic Supplications / Dua",
+      "notes": "A comprehensive collection of authentic supplications and remembrances from the Quran and Sunnah, covering all aspects of a Muslim's daily life. One of the most widely read Islamic books worldwide.",
+      "file": "library/fortress-of-the-muslim.md"
+    },
+    {
+      "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)",
+      "author": "Sheikh Safi-ur-Rahman Al-Mubarakpuri",
+      "language": "English",
+      "category": "Islamic Biography (Seerah)",
+      "notes": "Award-winning biography of Prophet Muhammad (peace be upon him). Winner of first prize in the worldwide Seerah competition held by the Muslim World League in Makkah, 1979.",
+      "file": "library/the-sealed-nectar.md"
+    },
+    {
+      "title": "Riyad Us Saliheen (Gardens of the Righteous)",
+      "author": "Imam Yahya ibn Sharaf Al-Nawawi",
+      "language": "Arabic",
+      "category": "Islamic Hadith Collection",
+      "notes": "One of the most celebrated Hadith collections, compiled by the renowned 13th-century scholar Imam Al-Nawawi. Contains ~1900 hadiths focused on ethics, character, and spiritual refinement.",
+      "file": "library/riyad-us-saliheen.md"
+    },
+    {
+      "title": "Hisnul Muslim Urdu — Zubair Ali Edition",
+      "author": "Said bin Ali Al-Qahtani (Tahqeeq: Zubair Ali Zai)",
+      "language": "Urdu",
+      "category": "Islamic Supplications / Dua",
+      "notes": "Scholarly Urdu edition of Hisnul Muslim with Hadith verification (Tahqeeq) and referencing (Takhreej) by renowned Hadith scholar Sheikh Zubair Ali Zai. Widely used in the Indian subcontinent.",
+      "file": "library/hisnul-muslim-urdu-zubair-ali.md"
+    },
+    {
+      "title": "Hisnul Muslim Urdu — Standard Text Edition",
+      "author": "Said bin Ali Al-Qahtani",
+      "language": "Urdu",
+      "category": "Islamic Supplications / Dua",
+      "notes": "Standard Urdu text edition of the Fortress of the Muslim, presented in clear Urdu for millions of Urdu-speaking Muslims across Pakistan, India, and the global diaspora.",
+      "file": "library/hisnul-muslim-urdu-standard.md"
+    }
+  ]
+}
