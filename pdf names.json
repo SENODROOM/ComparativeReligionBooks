@@ -1,5 +1,13 @@
 [
   {
+    "library": [
+      "en_Islam_Is_Your_Birthright.pdf",
+      "Islam and the Destiny of Man.pdf",
+      "IslamInAChangingWorldByShaykhAbulHasanAliNadwi.pdf",
+      "The Muqaddimah; An Introduction to History (2005) - Ibn Ibn Khaldûn.pdf"
+    ]
+  },
+  {
     "library/atheism": [
       "a-conversation-with-an-atheist.pdf",
       "atheism-a-giant-leap-of-faith.pdf",
@@ -16,13 +24,13 @@
       "islam-answers-atheism-asrar-rashid.pdf",
       "islam-vs-atheism.pdf",
       "min-tarikh-al-ilhad-fi-al-islam-arabic.pdf",
-      "ten-proofs-for-the-existence-of-god.pdf",
+      "Ten-Proofs-for-The-Existence-of-God.pdf",
       "the-amazing-quran-gary-miller.pdf",
       "the-atheism-delusion.pdf",
       "the-divine-reality-hamza-andreas-tzortzis.pdf",
       "the-divine-reality-hamza-tzortzis-alt-edition.pdf",
       "the-eternal-challenge.pdf",
-      "the-god-delusion-richard-dawkins.pdf",
+      "The-God-Delusion-Richard-Dawkins.pdf",
       "what-does-islam-say-about-atheism.pdf",
       "who-deserves-to-be-worshipped.pdf",
       "why-believe-in-an-almighty-creator.pdf"
@@ -90,7 +98,7 @@
       "prolegomena-to-the-history-of-religions-albert-reville-1884.pdf",
       "ten-great-religions-an-essay-in-comparative-theology.pdf",
       "the-bible-the-quran-and-science-maurice-bucaille.pdf",
-      "the-golden-bough-abridged-james-george-frazer-1922.pdf",
+      "The-Golden-Bough-Abridged-James-George-Frazer-1922.pdf",
       "the-purpose-of-creation-bilal-philips.pdf",
       "the-scribes-of-the-prophet-mustafa-al-azami.pdf",
       "the-worlds-religions-a-guide-to-our-wisdom-traditions.pdf",
@@ -192,7 +200,7 @@
     ]
   },
   {
-    "library/islam/hadith": [
+    "library/islam/Hadith": [
       "40-hadith-of-imam-nawawi.pdf",
       "adab-al-mufrad-imam-bukhari.pdf",
       "al-muwatta-of-imam-malik-ibn-anas.pdf",
@@ -206,12 +214,12 @@
       "nukbatul-fikar.pdf",
       "riwayat-o-fahm-e-hadith-ki-fazilat.pdf",
       "riyad-us-saliheen.pdf",
-      "sahi-bukhari-jilad-1.pdf",
-      "sahi-bukhari-jilad-2.pdf",
-      "sahi-bukhari-jilad-3.pdf",
-      "sahi-bukhari-jilad-4.pdf",
-      "sahi-bukhari-jilad-5.pdf",
-      "sahi-bukhari-jilad-6.pdf",
+      "Sahi-Bukhari-Jilad-1.pdf",
+      "Sahi-Bukhari-Jilad-2.pdf",
+      "Sahi-Bukhari-Jilad-3.pdf",
+      "Sahi-Bukhari-Jilad-4.pdf",
+      "Sahi-Bukhari-Jilad-5.pdf",
+      "Sahi-Bukhari-Jilad-6.pdf",
       "sahih-al-bukhari-abridged.pdf",
       "sahih-al-bukhari-arabic-english-vol-1.pdf",
       "sahih-al-bukhari-arabic-english-vol-2.pdf",
@@ -335,7 +343,7 @@
     ]
   },
   {
-    "library/islam/quran": [
+    "library/islam/Quran": [
       "al-quran-al-kareem-arabic.pdf",
       "beautiful-patience-tafsir-of-surah-yusuf-part-1.pdf",
       "beautiful-patience-tafsir-of-surah-yusuf-part-2.pdf",
@@ -362,7 +370,7 @@
       "tafsir-al-jalalayn.pdf",
       "tafsir-al-tabari-volume-1.pdf",
       "tafsir-ibn-abbas.pdf",
-      "tafsir-ibn-kathir-all-10-volumes.pdf",
+      "Tafsir-Ibn-Kathir-all-10-volumes.pdf",
       "tafsir-of-surah-at-tawbah.pdf",
       "the-clear-quran-mustafa-khattab.pdf",
       "the-compilation-of-the-quran.pdf",
@@ -460,9 +468,11 @@
       "curbing-the-two-desires-al-ghazali.pdf",
       "dont-be-sad-aaidh-ibn-abdullah-al-qarni.pdf",
       "ethics-of-islam-ali-bin-emrullah.pdf",
+      "for-those-left-behind-guidance-on-death-and-grieving-omar-suleiman.pdf",
       "ihya-ulum-al-din-volume-1-al-ghazali.pdf",
       "incidents-regarding-the-remembrance-of-allah.pdf",
       "iqtidaa-ul-ilm-al-amal.pdf",
+      "jannah-home-at-last-omar-suleiman.pdf",
       "journey-to-allah.pdf",
       "kiran-kiran-suraj-wasif-ali-wasif.pdf",
       "letters-from-a-sufi-teacher.pdf",
@@ -472,6 +482,7 @@
       "morals-and-behaviour-ibn-hazm.pdf",
       "mysteries-of-the-soul-expounded.pdf",
       "patience-and-gratitude-ibn-qayyim.pdf",
+      "prayers-of-the-pious-omar-suleiman.pdf",
       "purification-of-the-heart-hamza-yusuf.pdf",
       "purification-of-the-heart-shah-wasiyyullah.pdf",
       "purification-of-the-soul-ibn-qudamah-al-maqdisi.pdf",
@@ -489,6 +500,15 @@
       "the-relief-from-distress-the-dua-of-yunus.pdf",
       "the-spiritual-cure-tafsir-of-al-fatiha.pdf",
       "winning-your-wifes-heart.pdf"
+    ]
+  },
+  {
+    "library/new book": [
+      "Ar-Raheeq_Al-Makhtum_(The_Sealed_Nectar)_English_(www.TheChoice.one).pdf",
+      "Dont Be Sad.pdf",
+      "Hamza-Yusuf_Purification-of-the-Heart.pdf",
+      "reclaim-your-heart-yasmin-mogahed.pdf",
+      "The Productive Muslim  Where Faith Meets Productivity_nodrm.pdf"
     ]
   },
   {
@@ -526,7 +546,7 @@
       "the-muqaddimah-ibn-khaldun.pdf",
       "the-prophet-khalil-gibran.pdf",
       "the-reconstruction-of-religious-thought-in-islam-muhammad-iqbal.pdf",
-      "the-varieties-of-religious-experience-william-james-1902.pdf",
+      "The-Varieties-of-Religious-Experience-William-James-1902.pdf",
       "why-did-they-become-muslims.pdf",
       "why-do-people-suffer-gods-existence-and-the-problem-of-evil.pdf"
     ]
