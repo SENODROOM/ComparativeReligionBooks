@@ -1,3 +1,4 @@
+
 {
   "books": [
     {
@@ -21,7 +22,7 @@
       "author": "Imam Yahya ibn Sharaf Al-Nawawi",
       "language": "Arabic",
       "category": "Islamic Hadith Collection",
-      "notes": "One of the most celebrated Hadith collections, compiled by the renowned 13th-century scholar Imam Al-Nawawi. Contains ~1900 hadiths focused on ethics, character, and spiritual refinement.",
+      "notes": "One of the most celebrated Hadith collections, compiled by the renowned 13th-century scholar Imam Al-Nawawi. Contains approximately 1900 hadiths focused on ethics, character, and spiritual refinement.",
       "file": "library/riyad-us-saliheen.md"
     },
     {
@@ -29,7 +30,7 @@
       "author": "Said bin Ali Al-Qahtani (Tahqeeq: Zubair Ali Zai)",
       "language": "Urdu",
       "category": "Islamic Supplications / Dua",
-      "notes": "Scholarly Urdu edition of Hisnul Muslim with Hadith verification (Tahqeeq) and referencing (Takhreej) by renowned Hadith scholar Sheikh Zubair Ali Zai. Widely used in the Indian subcontinent.",
+      "notes": "Scholarly Urdu edition of Hisnul Muslim with Hadith verification (Tahqeeq) and referencing (Takhreej) by Sheikh Zubair Ali Zai.",
       "file": "library/hisnul-muslim-urdu-zubair-ali.md"
     },
     {
@@ -37,8 +38,48 @@
       "author": "Said bin Ali Al-Qahtani",
       "language": "Urdu",
       "category": "Islamic Supplications / Dua",
-      "notes": "Standard Urdu text edition of the Fortress of the Muslim, presented in clear Urdu for millions of Urdu-speaking Muslims across Pakistan, India, and the global diaspora.",
+      "notes": "Standard Urdu text edition of the Fortress of the Muslim, presented in clear Urdu.",
       "file": "library/hisnul-muslim-urdu-standard.md"
+    },
+    {
+      "title": "An Islamic Philosophy of Virtuous Religions: Introducing Alfarabi",
+      "author": "Joshua Parens",
+      "language": "English",
+      "category": "Islamic Philosophy",
+      "notes": "A study of Alfarabi's philosophical ideas, virtuous religions, and political philosophy.",
+      "file": "library/An-Islamic-Philosophy-of-Virtuo.pdf"
+    },
+    {
+      "title": "Defining Islamic Comparative Theology",
+      "author": "Idris Nassery and Zishan Ghaffar",
+      "language": "English",
+      "category": "Comparative Theology",
+      "notes": "Explores the foundations and academic scope of Islamic comparative theology.",
+      "file": "library/Defining Islamic Comparative Theology.pdf"
+    },
+    {
+      "title": "God’s Other Book: The Qur’an Between History and Ideology",
+      "author": "Mohammad Salama",
+      "language": "English",
+      "category": "Quranic Studies",
+      "notes": "Examines the Qur’an in relation to history and ideology.",
+      "file": "library/God’s Other Book.pdf"
+    },
+    {
+      "title": "Islamic Philosophy and Theology: An Extended Survey",
+      "author": "W. Montgomery Watt",
+      "language": "English",
+      "category": "Islamic Philosophy and Theology",
+      "notes": "Provides an overview of Islamic philosophical and theological thought.",
+      "file": "library/Islamic philosopy_and_Theology_an_Extended_Survey_1985.pdf"
+    },
+    {
+      "title": "Qur’an Translations in the Eastern Bloc and Beyond",
+      "author": "Elvira Kulieva, Johanna Pink, and Mykhaylo Yakubovych",
+      "language": "English",
+      "category": "Quranic Studies",
+      "notes": "Examines the history and development of Qur’an translations in the Eastern Bloc and beyond.",
+      "file": "library/Qur’an Translations in the Eastern Bloc and Beyond.pdf"
     }
   ]
 }
