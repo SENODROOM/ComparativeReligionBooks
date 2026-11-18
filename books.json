@@ -39,6 +39,46 @@
       "category": "Islamic Supplications / Dua",
       "notes": "Standard Urdu text edition of the Fortress of the Muslim, presented in clear Urdu for millions of Urdu-speaking Muslims across Pakistan, India, and the global diaspora.",
       "file": "library/hisnul-muslim-urdu-standard.md"
+    },
+    {
+      "title": "Alberuni's India",
+      "author": "Al-Biruni (translated by Edward C. Sachau)",
+      "language": "English",
+      "category": "Comparative Religion / Hinduism",
+      "notes": "A study of the religion, philosophy, sciences and customs of India by the Muslim scholar Al-Biruni, written around 1030. Often praised as an early and fair-minded work of comparative religion.",
+      "file": "library/other-religions/alberunis-india-al-biruni.pdf"
+    },
+    {
+      "title": "Hidayat al-Hayara (Guidance for the Perplexed)",
+      "author": "Ibn Qayyim al-Jawziyya",
+      "language": "English",
+      "category": "Comparative Religion / Islamic Apologetics",
+      "notes": "A classical scholarly reply to Jewish and Christian objections, discussing their beliefs and presenting the case for the prophethood of Muhammad (peace be upon him).",
+      "file": "library/comparative-religion/hidayat-al-hayara-guidance-for-the-perplexed-ibn-qayyim.pdf"
+    },
+    {
+      "title": "Jesus: Prophet of Islam",
+      "author": "Muhammad Ata ur-Rahim",
+      "language": "English",
+      "category": "Comparative Religion / Christianity and Islam",
+      "notes": "Presents the Islamic view of Jesus as a prophet and messenger of God, and compares it with Christian beliefs about him.",
+      "file": "library/comparative-religion/jesus-prophet-of-islam-muhammad-ata-ur-rahim.pdf"
+    },
+    {
+      "title": "Al-Farooq: The Life of Umar",
+      "author": "Shibli Nomani",
+      "language": "English",
+      "category": "Islamic History",
+      "notes": "A detailed biography of Umar ibn al-Khattab, the second caliph of Islam, covering his life, character and the administration of his caliphate. A classic work by one of the best-known Islamic historians of the subcontinent.",
+      "file": "library/islam/history/al-farooq-shibli-nomani.pdf"
+    },
+    {
+      "title": "Introduction to Islam",
+      "author": "Muhammad Hamidullah",
+      "language": "English",
+      "category": "Islamic Introduction",
+      "notes": "A compact and well-regarded overview of Islamic beliefs, worship, history and institutions, written by the renowned scholar Muhammad Hamidullah.",
+      "file": "library/islam/introduction/introduction-to-islam-muhammad-hamidullah.pdf"
     }
   ]
 }
